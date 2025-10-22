@@ -24,6 +24,10 @@ I'm always eager to learn new technologies and contribute to interesting project
 
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" />
+</p>
+
 <!--
 - 🔭 I’m currently working on unity game.
 - 🌱 I’m currently learning C#, Unity, Azure, Java, .NET.
