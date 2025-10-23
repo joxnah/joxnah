@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Cîrlan Ion
+# 👋 Hi, my name is Cirlan Ion
 Connect with me: [GitHub](https://github.com/joxnah) | [Email](ionutx2008@gmail.com)
 
 I'm a passionate and focused Computer Science student at CEITI College of Informatics. My core programming experience and strongest interest lie in C#.
